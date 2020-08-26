@@ -2,3 +2,6 @@ it's summer
 the sky is blue
 ninja turtles are cool
 today is wednesday
+line 1
+line 2
+line 3
